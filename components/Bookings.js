@@ -210,7 +210,11 @@ export default function Bookings() {
                     name="checkOut"
                     value={formData.checkOut}
                     onChange={handleInputChange}
-                    className="w-full px-4 py-2 border dark:text-gray-400 dark:border-gray-600 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+                    className="w-full px-4 py-2 border dark:text-gray-400 dark:border-gray-600 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent [appearance:textfield] [&::-webkit-calendar-picker-indicator]:opacity-100 
+             [&::-webkit-calendar-picker-indicator]:bg-transparent 
+             [&::-webkit-c alendar-picker-indicator]:cursor-pointer 
+             [&::-webkit-calendar-picker-indicator]:invert-0 
+             dark:[&::-webkit-calendar-picker-indicator]:invert"
                     required
                   />
                 </div>
@@ -220,11 +224,7 @@ export default function Bookings() {
                     name="guests"
                     value={formData.guests}
                     onChange={handleInputChange}
-                    className="w-full px-4 py-2 border dark:text-gray-400 dark:border-gray-600 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent [appearance:textfield] [&::-webkit-calendar-picker-indicator]:opacity-100 
-             [&::-webkit-calendar-picker-indicator]:bg-transparent 
-             [&::-webkit-calendar-picker-indicator]:cursor-pointer 
-             [&::-webkit-calendar-picker-indicator]:invert-0 
-             dark:[&::-webkit-calendar-picker-indicator]:invert"
+                    className="w-full px-4 py-2 border dark:text-gray-400 dark:border-gray-600 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
                   >
                     {[1, 2, 3, 4, 5, 6, 7, 8].map((num) => (
                       <option key={num} value={num}>
