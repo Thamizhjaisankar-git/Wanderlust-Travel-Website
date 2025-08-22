@@ -5,6 +5,8 @@ import ReactDOM from "react-dom"
 
 const { useState, useEffect } = React
 
+
+//2nd commit
 // Theme Toggle Component
 const ThemeToggle = () => {
   const [isDark, setIsDark] = useState(false)
