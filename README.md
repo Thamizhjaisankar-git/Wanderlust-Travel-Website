@@ -1,9 +1,8 @@
 # 🌍 Wanderlust – Responsive Travel Booking Website  
 
 ## 📖 Project Overview 
-Wanderlust is a **modern responsive travel booking platform** that provides an intuitive, seamless, and visually appealing way for users to plan their trips.  
-Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
-The platform is designed with **dark & light themes**, offering a user-friendly and inclusive travel experience.    
+- Wanderlust is a **modern responsive travel booking platform** that provides an intuitive, seamless, and visually appealing way for users to plan their trips. - - Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
+- The platform is designed with **dark & light themes**, offering a user-friendly and inclusive travel experience.    
 
 ---
 
@@ -76,7 +75,6 @@ The platform is designed with **dark & light themes**, offering a user-friendly 
 - 🗣️ Multi-language Support
 
 ---
----
 
 ## 🧪 Testing
 6. Run unit and integration tests:
@@ -94,9 +92,9 @@ The platform is designed with **dark & light themes**, offering a user-friendly 
 ---
 
 👨‍💻 Author
-**Thamizh Jaisankar**
-📧 [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)
-🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
+- **Thamizh Jaisankar**
+- 📧 [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)
+- 🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
 
 
 
