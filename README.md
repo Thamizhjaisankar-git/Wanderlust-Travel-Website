@@ -45,19 +45,19 @@ The platform is designed with **dark & light themes**, offering a user-friendly 
 
 ## 🚀 Installation & Setup  
 
-1. Clone the repository:  
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/wanderlust.git
    cd wanderlust
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
 
-3. Run the development server:
+4. Run the development server:
    ```bash
    npm start
 
-4. Open your browser and visit:
+5. Open your browser and visit:
    ```bash
    http://localhost:3000
 
@@ -76,27 +76,27 @@ The platform is designed with **dark & light themes**, offering a user-friendly 
 - 🗣️ Multi-language Support
 
 ---
+---
 
 ## 🧪 Testing
-
-Run unit and integration tests:  
-    ```bash
-    npm test 
+6. Run unit and integration tests:
+   ```bash
+   npm test 
 
 ---
 
 ## 📸 Screenshots
 
-📱 Homepage – Destinations & Packages
-🖥️ User Dashboard – Booking & Profile
-🌗 Dark Mode View – Modern responsive design
+- 📱 Homepage – Destinations & Packages
+- 🖥️ User Dashboard – Booking & Profile
+- 🌗 Dark Mode View – Modern responsive design
 
 ---
 
 👨‍💻 Author
-- Thamizh Jaisankar
-- 📧 thamizhjaisankar@gmail.com
-- 🔗 Portfolio | GitHub | LinkedIn
+**Thamizh Jaisankar**
+📧 [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)
+🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
 
 
 
