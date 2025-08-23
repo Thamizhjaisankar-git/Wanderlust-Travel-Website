@@ -93,7 +93,7 @@
     <td align="left" width="48%">
       <img src="src/assets/landingpage.png" alt="Landing Page" width="100%">
     </td>
-    <td width="4%"></td> <!-- gap -->
+    <td width="3%"></td> <!-- gap -->
     <td align="right" width="48%">
       <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
     </td>
@@ -106,7 +106,7 @@
     <td align="left" width="48%">
       <img src="src/assets/Destination.png" alt="Destinations" width="100%">
     </td>
-    <td width="4%"></td> <!-- gap -->
+    <td width="3%"></td> <!-- gap -->
     <td align="right" width="48%">
       <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="100%">
     </td>
