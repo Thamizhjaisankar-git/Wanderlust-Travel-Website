@@ -86,14 +86,12 @@
 
 ## 📸 Screenshots
 
-<p align="center"> <img src="src/assets/landingpage.png" alt="Landing Page" width="45%"> <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%"> </p><p align="center"> <img src="src/assets/Destination.png" alt="Destinations" width="45%"> <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%"> </p>
-
 <table width="100%">
   <tr>
-    <td align="left" width="48%">
+    <td align="left" width="50%">
       <img src="src/assets/landingpage.png" alt="Landing Page" width="100%">
     </td>
-    <td width="3%"></td> <!-- gap -->
+    <td width="1%"></td> <!-- gap -->
     <td align="right" width="48%">
       <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
     </td>
