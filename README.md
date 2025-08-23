@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview 
 Wanderlust is a **modern responsive travel booking platform** that provides an intuitive, seamless, and visually appealing way for users to plan their trips.  
-Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs, and galleries**.  
+Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
 The platform is designed with **dark & light themes**, offering a user-friendly and inclusive travel experience.    
 
 ---
@@ -78,13 +78,15 @@ The platform is designed with **dark & light themes**, offering a user-friendly 
 ---
 
 ## 🧪 Testing
-Run unit and integration tests:
+
+Run unit and integration tests:  
     ```bash
-    npm start
+    npm test 
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
+
 📱 Homepage – Destinations & Packages
 🖥️ User Dashboard – Booking & Profile
 🌗 Dark Mode View – Modern responsive design
@@ -92,9 +94,9 @@ Run unit and integration tests:
 ---
 
 👨‍💻 Author
-Thamizh Jaisankar
-📧 thamizhjaisankar@gmail.com
-🔗 Portfolio | GitHub | LinkedIn
+- Thamizh Jaisankar
+- 📧 thamizhjaisankar@gmail.com
+- 🔗 Portfolio | GitHub | LinkedIn
 
 
 
