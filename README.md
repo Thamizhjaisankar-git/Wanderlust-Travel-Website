@@ -79,23 +79,17 @@ The platform is designed with **dark & light themes**, offering a user-friendly 
 
 ## 🧪 Testing
 Run unit and integration tests:
-   ```bash
-   npm test
+    ```bash
+    npm start
 
-Covers:
-
-React component rendering
-
-API integration
-
-Form validations
+---
 
 📸 Screenshots
 📱 Homepage – Destinations & Packages
 🖥️ User Dashboard – Booking & Profile
 🌗 Dark Mode View – Modern responsive design
 
-(Add screenshots in your repo’s assets/ or via Markdown image links)
+---
 
 👨‍💻 Author
 Thamizh Jaisankar
