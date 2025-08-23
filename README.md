@@ -91,7 +91,7 @@
     <td align="left" width="50%">
       <img src="src/assets/landingpage.png" alt="Landing Page" width="100%">
     </td>
-   
+    <td width="0"></td> <!-- gap -->
     <td align="right" width="50%">
       <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
     </td>
