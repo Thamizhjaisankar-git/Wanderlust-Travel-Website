@@ -96,6 +96,25 @@
   <img src="src/assets/Detailsofdest.png" alt="Booking Screenshot" width="50%">
 </p>
 
+</div>
+            <pre><code>## 📸 Screenshots
+
+&lt;p align="center"&gt;
+  &lt;img src="src/assets/landingpage.png" alt="Landing Page" width="45%"&gt;
+  &lt;img src="src/assets/Dashboard.png" alt="Dashboard" width="45%"&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="src/assets/Destination.png" alt="Destinations" width="45%"&gt;
+  &lt;img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%"&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="src/assets/booking.png" alt="Booking" width="45%"&gt;
+  &lt;img src="src/assets/profile.png" alt="Profile" width="45%"&gt;
+&lt;/p&gt;</code></pre>
+        </div>
+        
 ---
 
 👨‍💻 Author
