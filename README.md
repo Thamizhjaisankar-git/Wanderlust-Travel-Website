@@ -96,15 +96,6 @@
       <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
     </td>
   </tr>
-    <tr>
-    <td align="left" width="50%">
-      <img src="src/assets/Destinations.png" alt="Destinations" width="100%">
-    </td>
-    <td width="1%"></td> <!-- gap -->
-    <td align="right" width="50%">
-      <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="100%">
-    </td>
-  </tr>
 </table>
 
 <!-- Row 2 -->
