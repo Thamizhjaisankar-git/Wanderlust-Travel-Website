@@ -87,13 +87,13 @@
 ## 📸 Screenshots
 
 <p align="left">
-  <img src="assets/landingpage.png" alt="Landingpage Screenshot" width="50%">
-  <img src="assets/Dashboard.png" alt="Dashboard Screenshot" width="50%">
+  <img src="src/assets/landingpage.png" alt="Landingpage Screenshot" width="50%">
+  <img src="src/assets/Dashboard.png" alt="Dashboard Screenshot" width="50%">
 </p>
 
 <p align="left">
-  <img src="assets/Destination.png" alt="Dark Mode Screenshot" width="50%">
-  <img src="assets/Detailsofdest.png" alt="Booking Screenshot" width="50%">
+  <img src="src/assets/Destination.png" alt="Dark Mode Screenshot" width="50%">
+  <img src="src/assets/Detailsofdest.png" alt="Booking Screenshot" width="50%">
 </p>
 
 ---
