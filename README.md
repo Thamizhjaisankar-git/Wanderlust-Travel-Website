@@ -88,21 +88,30 @@
 
 <p align="center"> <img src="src/assets/landingpage.png" alt="Landing Page" width="45%"> <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%"> </p><p align="center"> <img src="src/assets/Destination.png" alt="Destinations" width="45%"> <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%"> </p>
 
-<p align="center" style="display: flex; justify-content: space-between;">
-  <img src="src/assets/landingpage.png" alt="Landing Page" width="45%">
-  <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%">
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="48%">
+      <img src="src/assets/landingpage.png" alt="Landing Page" width="100%">
+    </td>
+    <td width="4%"></td> <!-- gap -->
+    <td align="right" width="48%">
+      <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
+    </td>
+  </tr>
+</table>
 
-<p align="center" style="display: flex; justify-content: space-between;">
-  <img src="src/assets/Destination.png" alt="Destinations" width="45%">
-  <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%">
-</p>
-
-<p align="center">
-  <img src="src/assets/landingpage.png" alt="Landing Page" width="45%" style="float: left; margin-right: 10px;">
-  <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%" style="float: right; margin-left: 10px;">
-</p>
-
+<!-- Row 2 -->
+<table width="100%">
+  <tr>
+    <td align="left" width="48%">
+      <img src="src/assets/Destination.png" alt="Destinations" width="100%">
+    </td>
+    <td width="4%"></td> <!-- gap -->
+    <td align="right" width="48%">
+      <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
