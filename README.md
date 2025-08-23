@@ -85,9 +85,15 @@
 
 ## 📸 Screenshots
 
-- 📱 Homepage – Destinations & Packages
-- 🖥️ User Dashboard – Booking & Profile
-- 🌗 Dark Mode View – Modern responsive design
+<p align="center">
+  <img src="assets/homepage.png" alt="Homepage Screenshot" width="45%">
+  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="45%">
+</p>
+
+<p align="center">
+  <img src="assets/darkmode.png" alt="Dark Mode Screenshot" width="45%">
+  <img src="assets/booking.png" alt="Booking Screenshot" width="45%">
+</p>
 
 ---
 
