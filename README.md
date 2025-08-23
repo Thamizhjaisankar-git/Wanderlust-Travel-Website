@@ -98,6 +98,12 @@
   <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%">
 </p>
 
+<p align="center">
+  <img src="src/assets/landingpage.png" alt="Landing Page" width="45%" style="float: left; margin-right: 10px;">
+  <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%" style="float: right; margin-left: 10px;">
+</p>
+
+
 ---
 
 👨‍💻 Author
