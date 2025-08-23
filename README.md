@@ -86,18 +86,18 @@
 
 ## 📸 Screenshots
 
-<p align="left">
-  <img src="src/assets/landingpage.png" alt="Landingpage Screenshot" width="50%">
-  <img src="src/assets/Dashboard.png" alt="Dashboard Screenshot" width="50%">
-</p>
-
-<p align="left">
-  <img src="src/assets/Destination.png" alt="Dark Mode Screenshot" width="50%">
-  <img src="src/assets/Detailsofdest.png" alt="Booking Screenshot" width="50%">
-</p>
-
 <p align="center"> <img src="src/assets/landingpage.png" alt="Landing Page" width="45%"> <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%"> </p><p align="center"> <img src="src/assets/Destination.png" alt="Destinations" width="45%"> <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%"> </p>
-         
+
+<p align="center" style="display: flex; justify-content: space-between;">
+  <img src="src/assets/landingpage.png" alt="Landing Page" width="45%">
+  <img src="src/assets/Dashboard.png" alt="Dashboard" width="45%">
+</p>
+
+<p align="center" style="display: flex; justify-content: space-between;">
+  <img src="src/assets/Destination.png" alt="Destinations" width="45%">
+  <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="45%">
+</p>
+
 ---
 
 👨‍💻 Author
