@@ -91,9 +91,18 @@
     <td align="left" width="50%">
       <img src="src/assets/landingpage.png" alt="Landing Page" width="100%">
     </td>
-    <td width="0"></td> <!-- gap -->
+    <td width="1%"></td> <!-- gap -->
     <td align="right" width="50%">
       <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
+    </td>
+  </tr>
+    <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Destinations.png" alt="Destinations" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="100%">
     </td>
   </tr>
 </table>
@@ -101,15 +110,76 @@
 <!-- Row 2 -->
 <table width="100%">
   <tr>
-    <td align="left" width="48%">
-      <img src="src/assets/Destination.png" alt="Destinations" width="100%">
+    <td align="left" width="50%">
+      <img src="src/assets/Destinations.png" alt="Destinations" width="100%">
     </td>
-    <td width="3%"></td> <!-- gap -->
-    <td align="right" width="48%">
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
       <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="100%">
     </td>
   </tr>
 </table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Travelpackages.png" alt="Travelpackages" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Bookings.png" alt="Bookings" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Newbookings.png" alt="Newbookings" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Gallery.png" alt="Gallery" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Travelblog.png" alt="Travelblog" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Contact.png" alt="Contact" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/About.png" alt="About" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Signup.png" alt="Signup" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Login.png" alt="Login" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Profile.png" alt="Profile" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
