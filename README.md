@@ -1,7 +1,8 @@
 # 🌍 Wanderlust – Responsive Travel Booking Website  
 
 ## 📖 Project Overview 
-- Wanderlust is a **modern responsive travel booking platform** that provides an intuitive, seamless, and visually appealing way for users to plan their trips. - - Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
+- Wanderlust is a **modern responsive travel booking platform** that provides an intuitive, seamless, and visually appealing way for users to plan their trips.
+- Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
 - The platform is designed with **dark & light themes**, offering a user-friendly and inclusive travel experience.    
 
 ---
@@ -85,14 +86,14 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="assets/homepage.png" alt="Homepage Screenshot" width="45%">
-  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="45%">
+<p align="left">
+  <img src="assets/homepage.png" alt="Homepage Screenshot" width="50%">
+  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="50%">
 </p>
 
-<p align="center">
-  <img src="assets/darkmode.png" alt="Dark Mode Screenshot" width="45%">
-  <img src="assets/booking.png" alt="Booking Screenshot" width="45%">
+<p align="left">
+  <img src="assets/darkmode.png" alt="Dark Mode Screenshot" width="50%">
+  <img src="assets/booking.png" alt="Booking Screenshot" width="50%">
 </p>
 
 ---
