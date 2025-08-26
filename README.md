@@ -5,7 +5,6 @@
 - Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
 - The platform is designed with **dark & light themes**, offering a user-friendly and inclusive travel experience.    
 
----
 
 ## 🎯 Goals  
 - Provide a **responsive travel booking platform** with smooth navigation.  
@@ -14,7 +13,6 @@
 - Enhance user engagement with **blogs, gallery, and contact system**.  
 - Deliver a **modern UI** with both **dark & light themes**.  
 
----
 
 ## ✨ Features  
 
@@ -30,7 +28,6 @@
 - 📩 **Contact Us** – Integrated form for queries and support.  
 - 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile devices.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -41,7 +38,6 @@
 | Authentication   | JWT/Auth System    |  
 | Deployment       | Vercel   |  
 
----
 
 ## 🚀 Installation & Setup  
 
@@ -61,7 +57,6 @@
    ```bash
    http://localhost:3000
 
----
 
 ## 📊 Future Enhancements
 
@@ -75,14 +70,12 @@
 
 - 🗣️ Multi-language Support
 
----
 
 ## 🧪 Testing
 6. Run unit and integration tests:
    ```bash
    npm test 
 
----
 
 ## 📸 Screenshots
 
@@ -171,8 +164,6 @@
   </tr>
 </table>
 
-
----
 
 👨‍💻 Author
 - **Thamizh Jaisankar**
