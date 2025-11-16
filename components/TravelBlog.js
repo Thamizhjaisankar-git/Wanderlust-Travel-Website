@@ -167,7 +167,7 @@ export default function TravelBlog() {
       {/* Blog Post Modal */}
       {selectedPost && (
         <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4">
-          <div className="bg-white rounded-xl max-w-4xl max-h-full overflow-y-auto">
+          <div className="bg-white dark:bg-gray-800 dark:text-gray-300 rounded-xl max-w-4xl max-h-full overflow-y-auto">
             <div className="relative">
               <img
                 src={selectedPost.image || "/placeholder.svg"}
@@ -176,7 +176,7 @@ export default function TravelBlog() {
               />
               <button
                 onClick={closePost}
-                className="absolute top-4 right-4 dark:bg-gray-800 bg-white rounded-full p-2 hover:bg-gray-100 transition-colors"
+                className="absolute top-4 right-4 dark:bg-gray-800 dark:text-gray-300 bg-white rounded-full p-2 hover:bg-gray-100 transition-colors"
               >
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -189,10 +189,10 @@ export default function TravelBlog() {
                 <span className="bg-emerald-100 text-emerald-800 px-3 py-1 rounded-full text-sm font-semibold">
                   {selectedPost.category}
                 </span>
-                <span className="text-sm text-gray-500">{selectedPost.readTime}</span>
+                <span className="text-sm dark:text-gray-300 text-gray-500">{selectedPost.readTime}</span>
               </div>
 
-              <h1 className="text-3xl font-serif font-bold text-gray-800 mb-4">{selectedPost.title}</h1>
+              <h1 className="text-3xl font-serif font-bold dark:text-white text-gray-800 mb-4">{selectedPost.title}</h1>
 
               <div className="flex items-center mb-6">
                 <div className="w-10 h-10 bg-emerald-500 rounded-full flex items-center justify-center mr-4">
@@ -204,31 +204,31 @@ export default function TravelBlog() {
                   </span>
                 </div>
                 <div>
-                  <p className="font-medium text-gray-800">{selectedPost.author}</p>
-                  <p className="text-sm text-gray-500">{selectedPost.date}</p>
+                  <p className="font-medium dark:text-white text-gray-800">{selectedPost.author}</p>
+                  <p className="text-sm dark:text-gray-200 text-gray-500">{selectedPost.date}</p>
                 </div>
               </div>
 
               <div className="prose max-w-none">
-                <p className="text-lg text-gray-700 mb-6">{selectedPost.excerpt}</p>
-                <p className="text-gray-700 mb-4">
+                <p className="text-lg dark:text-white text-gray-700 mb-6">{selectedPost.excerpt}</p>
+                <p className="text-gray-700 dark:text-gray-300 mb-4">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
                   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                   aliquip ex ea commodo consequat.
                 </p>
-                <p className="text-gray-700 mb-4">
+                <p className="text-gray-700 dark:text-gray-300 mb-4">
                   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
                   laborum.
                 </p>
-                <h3 className="text-xl font-bold text-gray-800 mb-3">Key Highlights</h3>
-                <ul className="list-disc list-inside text-gray-700 mb-4">
+                <h3 className="text-xl font-bold dark:text-white text-gray-800 mb-3">Key Highlights</h3>
+                <ul className="list-disc list-inside dark:text-gray-300 text-gray-700 mb-4">
                   <li>Amazing destinations and experiences</li>
                   <li>Practical travel tips and advice</li>
                   <li>Budget-friendly recommendations</li>
                   <li>Cultural insights and local knowledge</li>
                 </ul>
-                <p className="text-gray-700">
+                <p className="text-gray-700 dark:text-gray-300">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                   totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
                   sunt explicabo.

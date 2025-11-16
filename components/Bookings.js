@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+  
 
 const myBookings = [
   {
@@ -26,6 +27,9 @@ const myBookings = [
 ]
 
 export default function Bookings() {
+
+ 
+
   const [activeTab, setActiveTab] = useState("my-bookings")
   const [formData, setFormData] = useState({
     destination: "",
@@ -35,6 +39,8 @@ export default function Bookings() {
     packageType: "",
     specialRequests: "",
   })
+
+   
 
   const handleInputChange = (e) => {
     setFormData({
@@ -195,7 +201,7 @@ export default function Bookings() {
                     name="checkIn"
                     value={formData.checkIn}
                     onChange={handleInputChange}
-                    className="w-full px-4 py-2 border dark:text-gray-400 dark:border-gray-600 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent [appearance:textfield] [&::-webkit-calendar-picker-indicator]:opacity-100 
+                     className="w-full px-4 py-2 border dark:text-gray-400 dark:border-gray-600 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent [appearance:textfield] [&::-webkit-calendar-picker-indicator]:opacity-100 
              [&::-webkit-calendar-picker-indicator]:bg-transparent 
              [&::-webkit-calendar-picker-indicator]:cursor-pointer 
              [&::-webkit-calendar-picker-indicator]:invert-0 
@@ -262,3 +268,4 @@ export default function Bookings() {
     </div>
   )
 }
+
