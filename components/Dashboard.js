@@ -7,7 +7,7 @@ const featuredDestinations = [
   {
     id: 1,
     name: "Santorini, Greece",
-    image: "/santorini_greece.avif",
+    image: "/santorini_greece.png",
     price: "$1,299",
     rating: 4.9,
     description: "Stunning sunsets and white-washed buildings",
