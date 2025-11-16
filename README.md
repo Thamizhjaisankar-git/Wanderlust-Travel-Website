@@ -5,7 +5,6 @@
 - Built using **React** and **TailwindCSS**, it integrates **user authentication, profile management, booking system, travel blogs and galleries**.  
 - The platform is designed with **dark & light themes**, offering a user-friendly and inclusive travel experience.    
 
----
 
 ## 🎯 Goals  
 - Provide a **responsive travel booking platform** with smooth navigation.  
@@ -14,7 +13,6 @@
 - Enhance user engagement with **blogs, gallery, and contact system**.  
 - Deliver a **modern UI** with both **dark & light themes**.  
 
----
 
 ## ✨ Features  
 
@@ -30,7 +28,6 @@
 - 📩 **Contact Us** – Integrated form for queries and support.  
 - 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile devices.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -41,7 +38,6 @@
 | Authentication   | JWT/Auth System    |  
 | Deployment       | Vercel   |  
 
----
 
 ## 🚀 Installation & Setup  
 
@@ -61,7 +57,6 @@
    ```bash
    http://localhost:3000
 
----
 
 ## 📊 Future Enhancements
 
@@ -75,28 +70,100 @@
 
 - 🗣️ Multi-language Support
 
----
 
 ## 🧪 Testing
 6. Run unit and integration tests:
    ```bash
    npm test 
 
----
 
 ## 📸 Screenshots
 
-<p align="left">
-  <img src="assets/homepage.png" alt="Homepage Screenshot" width="50%">
-  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="50%">
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/landingpage.png" alt="Landing Page" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Dashboard.png" alt="Dashboard" width="100%">
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="assets/darkmode.png" alt="Dark Mode Screenshot" width="50%">
-  <img src="assets/booking.png" alt="Booking Screenshot" width="50%">
-</p>
+<!-- Row 2 -->
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Destinations.png" alt="Destinations" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Detailsofdest.png" alt="Destination Details" width="100%">
+    </td>
+  </tr>
+</table>
 
----
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Travelpackages.png" alt="Travelpackages" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Bookings.png" alt="Bookings" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Newbookings.png" alt="Newbookings" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Gallery.png" alt="Gallery" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Travelblog.png" alt="Travelblog" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Contact.png" alt="Contact" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/About.png" alt="About" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Signup.png" alt="Signup" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="src/assets/Login.png" alt="Login" width="100%">
+    </td>
+    <td width="1%"></td> <!-- gap -->
+    <td align="right" width="50%">
+      <img src="src/assets/Profile.png" alt="Profile" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 👨‍💻 Author
 - **Thamizh Jaisankar**
