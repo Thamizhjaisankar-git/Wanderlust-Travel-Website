@@ -43,7 +43,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wanderlust.git
+   git clone https://github.com/Thamizhjaisankar-git/Wanderlust-Travel-Website
    cd wanderlust
 3. Install dependencies:
    ```bash
@@ -51,23 +51,19 @@
 
 4. Run the development server:
    ```bash
-   npm start
+   npm run dev
 
 5. Open your browser and visit:
    ```bash
-   http://localhost:3000
+   http://localhost:5173
 
 
 ## 📊 Future Enhancements
 
 - 💳 Integrated Payment Gateway (Stripe / Razorpay / UPI)
-
 - 🤖 AI-based Travel Recommendations
-
 - 📍 Map Integration for trip planning
-
 - 🛫 Booking History Export (PDF / Email receipts)
-
 - 🗣️ Multi-language Support
 
 
@@ -168,8 +164,4 @@
 👨‍💻 Author
 - **Thamizh Jaisankar**
 - 📧 [thamizhjaisankar@gmail.com](mailto:thamizhjaisankar@gmail.com)
-- 🔗 [Portfolio](https://portfolio-fawn-beta-24.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
-
-
-
-
+- 🔗 [Portfolio](https://thamizh-jl.vercel.app/) | [GitHub](https://github.com/Thamizhjaisankar-git) | [LinkedIn](https://www.linkedin.com/in/thamizhjaisankar)
